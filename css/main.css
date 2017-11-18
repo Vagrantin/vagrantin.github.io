@@ -1,3 +1,4 @@
-body,main {
- height: 100%;
+.center-auto {
+ margin-top: auto;
+ margin-bottom: auto;
 }
